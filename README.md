@@ -1,2 +1,4 @@
 # LINEAR_ALGEBRA
-LINEAR_ALGEBRA HW
+Linear Algebra HW
+
+hw discription : https://hackmd.io/@itsuki8606/S1MtVIdPL
